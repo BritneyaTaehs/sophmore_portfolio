@@ -1,5 +1,10 @@
 body { background-color: pink;
 }
+h1 {
+  font-family: sans-serif;
+   text-algin: center;
+   color: #000000
+}
 h3 {
   color: #blue;
   font-size: 24px;
