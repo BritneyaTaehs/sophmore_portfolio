@@ -1,10 +1,24 @@
 body { background-color: pink;
 }
 h1 {
-  font-family: "Fleur De Leah", cursive;
-  font-weight: 300;
+ .cinzel-decorative-regular {
+  font-family: "Cinzel Decorative", serif;
+  font-weight: 400;
   font-style: normal;
-  font-size:120px;
+}
+
+.cinzel-decorative-bold {
+  font-family: "Cinzel Decorative", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.cinzel-decorative-black {
+  font-family: "Cinzel Decorative", serif;
+  font-weight: 900;
+  font-style: normal;
+}
+
   text-align: center;
 }
 h3 {
