@@ -27,7 +27,7 @@ text-align: center;
    color: #000000
 }
 
-li a:link {color: black
-li a:visted {color: purple
+li a:link {color: black;}
+li a:visted {color: purple;}
 li a:hover {background-color: pink;}
 li a:active {font-size: 1.5;}
