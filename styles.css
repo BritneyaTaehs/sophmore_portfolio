@@ -1,9 +1,10 @@
 body { background-color: pink;
 }
 h1 {
-  font-family: "Imperial-Script";
-   text-align: center;
-   color: #000000
+  font-family: "Fleur De Leah", cursive;
+  font-weight: 300;
+  font-style: normal;
+  font-size:120px;
 }
 h3 {
   color: #blue;
